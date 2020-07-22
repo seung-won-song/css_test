@@ -1,0 +1,26 @@
+  
+.user_id_input{
+    font-size: 15px;
+    
+}
+
+.user_pw_input{
+    font-size: 15px;
+    
+}
+
+
+
+.pw_Q{
+    background: skyblue;
+}
+
+.intro{
+    background-color: snow;
+}
+
+.box {
+    background-color: aqua;
+    width: 150px;
+    height: 150px;
+}
